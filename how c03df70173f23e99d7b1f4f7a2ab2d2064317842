@@ -1,0 +1,60 @@
+[33mcommit 8684f42ca2638582b1444cba77143d312ad8624c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31mGIT_HW/main[m[33m)[m
+Author: Katy <bev08021982@gmail.com>
+Date:   Tue Nov 28 22:30:08 2023 +0400
+
+    Добавила стороку Hello java
+
+[33mcommit 660955863367f99623f32e43746d553099a2865c[m
+Author: Katy <bev08021982@gmail.com>
+Date:   Tue Nov 28 22:29:17 2023 +0400
+
+    Добавила строку Hello GITHUB!
+
+[33mcommit e0f19bd265d58643a8e042247ade95ba84324cc1[m
+Author: Katy <bev08021982@gmail.com>
+Date:   Tue Nov 28 22:28:21 2023 +0400
+
+    Добавила сторку Hello GIT
+
+[33mcommit e0c0409a1e0e93dd6edf26e90fffccd100847e78[m
+Author: Katy <bev08021982@gmail.com>
+Date:   Tue Nov 28 22:26:39 2023 +0400
+
+    Добавила задание для второй домашки
+
+[33mcommit c03df70173f23e99d7b1f4f7a2ab2d2064317842[m
+Author: Katy <bev08021982@gmail.com>
+Date:   Mon Nov 27 21:08:05 2023 +0400
+
+    Добавила описание сделанного
+
+[33mcommit 90136c58a32497dabe4feb0e0b4bb3afc7c3ae6b[m
+Author: Katy <bev08021982@gmail.com>
+Date:   Mon Nov 27 21:04:02 2023 +0400
+
+    Добавила описание сделанного
+
+[33mcommit 64cc70388311649ccbfde4ce97597f0c30b5b452[m
+Merge: 4df15f2 714bd2c
+Author: Katy <bev08021982@gmail.com>
+Date:   Mon Nov 27 20:59:29 2023 +0400
+
+    Merge branch 'main' of https://github.com/Bev0802/GIT_HW
+
+[33mcommit 714bd2ca8ce58cb2dd50102aeaa924b4d4aca7a7[m
+Author: Bev0802 <114512744+Bev0802@users.noreply.github.com>
+Date:   Mon Nov 27 20:45:47 2023 +0400
+
+    Update README.md
+
+[33mcommit 165bf4934e9571d52e4a925746b404d5686fbc83[m
+Author: Bev0802 <114512744+Bev0802@users.noreply.github.com>
+Date:   Mon Nov 27 20:45:09 2023 +0400
+
+    Initial commit
+
+[33mcommit 4df15f267f7ab6e1882c64d52bf2f3cb89daf26d[m
+Author: Katy <bev08021982@gmail.com>
+Date:   Mon Nov 27 20:42:20 2023 +0400
+
+    1. Инициализация репозитория
