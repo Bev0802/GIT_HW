@@ -28,22 +28,34 @@ create mode 100644 README.md
 
 Enumerating objects: 17, done.
 
-Counting objects: 100% (17/17), done.  
+Counting objects: 100% (17/17), done.
 
 Delta compression using up to 8 threads
 
-Compressing objects: 100% (9/9), done. 
+Compressing objects: 100% (9/9), done.
 
 Writing objects: 100% (15/15), 1.82 KiB | 93.00 KiB/s, done.
 
-Total 15 (delta 1), reused 0 (delta 0), pack-reused 0       
+Total 15 (delta 1), reused 0 (delta 0), pack-reused 0
 
 remote: Resolving deltas: 100% (1/1), completed with 1 local object.
 
 To https://github.com/Bev0802/GIT_HW.git
 
-   714bd2c..90136c5  main -> main
+714bd2c..90136c5 main -> main
 
-branch 'main' set up to track 'GIT_HW/main'. 
+branch 'main' set up to track 'GIT_HW/main'.
 
+### Урок 2. Работа с изменениями
 
+Данное домашнее задание является продолжением домашнего задания, которое вы выполняли на предыдущем семинаре в репозитории с собственным проектом.
+
+1. Просмотрите историю коммитов в своём проекте и выберите три случайных коммита. Просмотрите изменения, которые были в них сделаны.
+
+2. Верните эти изменения командой git revert последовательно, чтобы в итоге получилось тоже три коммита.
+
+3. Попробуйте отменить эти три коммита:
+
+- последний — командами git reset --soft и git restore;
+- предпоследний — командой git reset --mixed и git restore;
+- первый — командой git reset --hard.
