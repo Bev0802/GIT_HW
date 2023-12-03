@@ -81,7 +81,7 @@ branch 'main' set up to track 'GIT_HW/main'.
 1. Пригласите в свой проект кого-то из коллег по обучению, дайте им доступ к своему репозиторию (кроме ветки master).
 
 2. Поставьте ему в GitHub задачу по своему проекту, попросите её выполнить в отдельной ветке, а после выполнения — создать pull request и перевести задачу обратно на вас.
-   Задание: В классе Calculator добавить метод сложения:
+   Задание: В классе [Calculator](https://github.com/Bev0802/GIT_HW/blob/main/git_hw_1/src/main/java/com/example/Calculator.java) добавить метод сложения:
 
 ```java
 public int add(int a, int b) {
