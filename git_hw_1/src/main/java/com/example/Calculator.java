@@ -26,6 +26,9 @@ public class Calculator {
         return (a - (b*(a/100)));
     }
 
+    public int add(int a, int b) {
+        return a + b;
+    }
 
 }
 
